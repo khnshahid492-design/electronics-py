@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khnshahid492-design.github.io/electronics-py/sitemap.xml
